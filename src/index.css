@@ -3,8 +3,8 @@
 @import "tailwindcss";
 
 @font-face {
-  font-family: "ChunkoBold";
-  src: url("/fonts/ChunkoBold.otf") format("opentype");
+  font-family: "AlekanBold";
+  src: url("/fonts/Alekan-Bold.ttf") format("truetype");
   font-weight: bold;
   font-style: normal;
 }
