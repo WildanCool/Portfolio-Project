@@ -1,0 +1,71 @@
+{
+  "achievement": [
+    {
+      "judul": "Anchor Lapis 1",
+      "isi": "ANCHOR LAPIS 1 adalah salah satu pencapaian yang sangat saya syukuri dalam pencapaian futsal saya. Bisa menjadi bagian dari tim inti ini bukan hanya tentang bermain di lapangan, tapi juga tentang belajar disiplin, kerja sama, dan semangat pantang menyerah. Melalui tim ini, saya mendapat kesempatan untuk berkembang, bertanding di level yang lebih tinggi, dan bertemu dengan orang-orang hebat yang terus memotivasi saya untuk menjadi lebih baik."
+    },
+    {
+      "judul": "Naik Sabuk",
+      "isi": "Naik sabuk dalam taekwondo jadi salah satu momen yang paling saya syukuri dan banggakan selama ini. Rasanya senang sekali bisa naik tingkat setelah latihan keras, keringetan tiap hari, dan kadang juga capek banget. Tapi semua itu terbayar pas akhirnya dinyatakan lulus ujian sabuk, dan sekarang Alhamdulillah sekarang saya sudah sabuk hijau strip biru."
+    },
+    {
+      "judul": "Ketua Qism",
+      "isi": "Dipercayai menjadi ketua bagian OSIS adalah suatu kehormatan bagi saya. Menjadi ketua bagian bahasa Arab memberikan kesempatan besar untuk mengembangkan kemampuan bahasa sekaligus menginspirasi teman-teman agar lebih semangat belajar bahasa dan budaya Arab. Saya merasa bersyukur karena bisa dipercaya memimpin dan berkontribusi dalam kegiatan OSIS, serta berusaha menjalankan tugas ini dengan penuh tanggung jawab dan semangat agar dapat memberikan yang terbaik bagi sekolah dan teman-teman semua."
+    },
+    {
+      "judul": "Khatam Al-Qur’an",
+      "isi": "Pada hari Kamis, 15 Mei 2025, saya bersyukur banget karena akhirnya bisa khatam Al-Qur’an. Rasanya campur aduk—senang, haru, dan bangga karena ini bukan hal yang mudah dan butuh konsistensi. Selama prosesnya, saya hampir setiap hari baca Al-Qur’an, jadi lama-lama rasanya udah kayak jadi bagian dari hidup saya sendiri. Nggak cuma buat dibaca, tapi juga jadi penenang dan pengingat di setiap waktu. Semoga setelah ini saya bisa terus jaga semangat buat belajar, memahami maknanya, dan mencoba mengamalkan isi Al-Qur’an dalam kehidupan sehari-hari."
+    },
+    {
+      "judul": "Menang Sparing",
+      "isi": "Hari itu jadi salah satu momen yang nggak bakal aku lupain—karena akhirnya aku dan tim bisa menang sparing! Rasanya senang banget, apalagi ngeliat hasil dari latihan keras, keringat, dan semangat yang udah kita kasih selama ini bener-bener nggak sia-sia. Walaupun sempat grogi di awal, tapi perlahan rasa percaya diri muncul karena kita kompak dan saling dukung. Buat aku, menang sparing ini bukan cuma soal jadi juara, tapi juga bukti kalau kerja sama tim dan tekad kuat bisa bawa hasil yang luar biasa. Semoga ke depannya bisa terus berkembang dan makin siap buat tantangan selanjutnya!"
+    }
+  ],
+  "anotherAchievement": [
+    {
+      "judul": "Futsal",
+      "isi": "Aktif latihan dan beberapa kali ikut tanding, kemampuan fisik dan kerja tim makin terasah.",
+      "persen": "85%"
+    },
+    {
+      "judul": "Taekwondo",
+      "isi": "Sudah naik beberapa sabuk dan makin percaya diri di setiap sparing.",
+      "persen": "80%"
+    },
+    {
+      "judul": "Memanah",
+      "isi": "Mulai rutin latihan, teknik dasar sudah cukup dikuasai.",
+      "persen": "60%"
+    },
+    {
+      "judul": "Bahasa Arab",
+      "isi": "Sudah lancar membaca dan memahami teks pendek, terus belajar bicara lebih fasih.",
+      "persen": "75%"
+    },
+    {
+      "judul": "Tahfizh",
+      "isi": "Beberapa juz sudah dihafal, sedang dalam proses murojaah.",
+      "persen": "70%"
+    },
+    {
+      "judul": "Ilmu Teknologi",
+      "isi": "Tertarik pada coding dan desain web, masih eksplorasi lebih dalam.",
+      "persen": "65%"
+    },
+    {
+      "judul": "Nahwu",
+      "isi": "Sudah memahami dasar i'rab dan kedudukan kata.",
+      "persen": "55%"
+    },
+    {
+      "judul": "Shorof",
+      "isi": "Mulai bisa membedakan wazan dan bentuk kata kerja.",
+      "persen": "50%"
+    },
+    {
+      "judul": "Berenang",
+      "isi": "Sudah bisa renang dasar gaya bebas dan dada.",
+      "persen": "70%"
+    }
+  ]
+}
