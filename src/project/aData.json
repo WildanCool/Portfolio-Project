@@ -66,6 +66,36 @@
       "judul": "Berenang",
       "isi": "Sudah bisa renang dasar gaya bebas dan dada.",
       "persen": "70%"
+    },
+    {
+      "judul": "HTML",
+      "isi": "Sudah memahami struktur dasar HTML dan semantik elemen.",
+      "persen": "90%"
+    },
+    {
+      "judul": "CSS",
+      "isi": "Sudah mampu membuat layout dan style halaman dengan CSS dasar hingga menengah.",
+      "persen": "85%"
+    },
+    {
+      "judul": "JavaScript",
+      "isi": "Mulai paham logika dasar dan membuat interaksi dasar di web.",
+      "persen": "75%"
+    },
+    {
+      "judul": "Tailwind",
+      "isi": "Sudah terbiasa menggunakan utility class untuk styling cepat dan responsif.",
+      "persen": "80%"
+    },
+    {
+      "judul": "React",
+      "isi": "Bisa membuat komponen dasar, props, dan state dalam aplikasi kecil.",
+      "persen": "70%"
+    },
+    {
+      "judul": "Figma",
+      "isi": "Sudah bisa membuat wireframe dan prototype sederhana.",
+      "persen": "75%"
     }
   ]
 }

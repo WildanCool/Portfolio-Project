@@ -1,11 +1,12 @@
-import { StrictMode } from 'react'
-import { createRoot } from 'react-dom/client'
-import './index.css'
-import Header from '../public/project/home'
-import AchievementSection from '../public/project/achievement'
+import React, { StrictMode } from "react";
+import ReactDOM from "react-dom/client";
+import "./index.css";
 
-createRoot(document.getElementById('root')).render(
+import AppRouter from "../src/project/appRouter.jsx";
+
+const root = ReactDOM.createRoot(document.getElementById("root"));
+root.render(
   <StrictMode>
-    <AchievementSection />
-  </StrictMode>,
-)
+    <AppRouter />
+  </StrictMode>
+);
