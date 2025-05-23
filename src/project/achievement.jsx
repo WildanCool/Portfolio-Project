@@ -1,7 +1,7 @@
 import achievementData from "./aData.json";
 import { Link } from "react-router-dom";
 
-export default function AchievementSection() {
+export default function AchievementPage() {
   const specialColorMap = {
     HTML: "#FF5733",       // HTML merah
     CSS: "#2196F3",        // CSS biru
